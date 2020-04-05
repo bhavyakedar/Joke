@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Joke</string>
+    <string name="button_response">Answer : Timing!</string>
+    <string name="channel_name">channelName</string>
+    <string name="channel_description">channelDescription</string>
+    <string name="button_text">What is the secret of comedy?</string>
+
+</resources>
